@@ -1,0 +1,33 @@
+body{
+    background-color:#87CEFA;
+}
+
+.img_topo{
+    width: 1000px;
+}
+
+.img_corpo{
+    width: 50%;
+}
+
+figure{
+    text-align: center;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color:#FF0000;
+}
+
+p{
+    font-size: 2rem;
+    color:#000000;
+    text-align: justify;
+    text-indent: 40px;
+    
+}
